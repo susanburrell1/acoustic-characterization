@@ -1,6 +1,5 @@
 Implementing methods of acoustic characterization (i.e. finding speed of sound and attenuation) in test tank. 
-Based off methods introducted in "Improved ultrasonic spectroscopy methods for characterization of dispersive materials" by Haifeng Wang and Wenwu Cao
-Created by Susan Burrell, R&D intern
+Based off methods introducted in "Improved ultrasonic spectroscopy methods for characterization of dispersive materials" by Haifeng Wang and Wenwu Cao.
 
 Use fft_plotting script to read in files individually and check if needed. 
 
