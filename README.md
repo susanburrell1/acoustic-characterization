@@ -4,7 +4,7 @@ Created by Susan Burrell, R&D intern
 
 METHOD 1: 
 Relies on typical transmission spectroscopy methods, you need to accurately know the thickness of the material for calculations. 
-May be difficult for soft or non-uniform materials. Code version is working. 
+May be difficult for soft or non-uniform materials. Code version is working properly. 
 
 METHOD 2: 
 Builds upon first method, but uses internal reflection to backsolve for material thickness. Better for applications 
