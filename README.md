@@ -21,3 +21,5 @@ Input variables: speed of sound in water, density of water, density of sample, c
 
 When using test tank, take new reference water signals for each new sample tested. Hold all variables the same, 
 movement / misalignment of probe can introduce errors. Use triggered oscope for waveform input (keep trig level same).
+Use function generator in single burst mode for sine waves, increase Vpp if RF amplifier is not used to raise 
+signal above noise floor. 
